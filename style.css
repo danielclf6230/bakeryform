@@ -1,0 +1,54 @@
+body {
+    background-image: url(images/wood.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Comic Neue', cursive;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+label,
+h1,h3,h4{
+    color: rgb(0, 0, 0);
+    font-family: 'Carter One', cursive;
+}
+
+.hide {
+    visibility: collapse;
+}
+
+table {
+    width: auto !important;
+}
+
+.receipt {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: aliceblue;
+    width: 300px;
+}
+
+
+h1,
+h3.rhead,
+.heading {
+    text-align: center;
+    font-family: 'Carter One', cursive;
+}
+
+
+.rep {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 53vmin;
+    padding: 20px;
+}
+
+.rbody {
+    background-color: rgba(0, 0, 0, 0.75);
+    color: aliceblue;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: auto;
+}
